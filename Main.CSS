@@ -1,0 +1,92 @@
+<style>
+    
+    body { font-family:;
+    padding:0;
+    margin: 0;
+    }
+    
+    .Container {
+        overflow: hidden;
+        
+    }
+    
+    header{
+        background-color: #232732;
+        color: #ffffff;
+        padding-top: 30px;
+        min-height: 70px;
+        border-bottom: #BFB367 7px solid;
+    }
+    
+    header a{
+        text-decoration: none;
+        color: #ffffff;
+        text-transform: uppercase;
+        font-size:15pt;
+    }
+    
+    header ul{
+        margin:0;
+        padding: 0;
+    }
+    
+    header li {
+        display: inline;
+        padding: 0 20px 0 20px;
+    }
+    
+    header #webname {
+          font-weight: bold;
+          font-size:36pt;
+          color:white;
+          float: left;
+          margin-left: 50px;
+      
+          }
+    
+    header #webname h1{ margin:0;}
+    
+    header nav {float:right;
+    margin-right: 20px;}
+    
+    header .official  {
+        color: #BFB367;
+        font-size: 12pt;
+        font-weight: bold;
+    }
+    
+    header .highlightlink a {
+        font-weight: bold;
+        color: #BFB367;
+    }
+    
+    header a:hover {
+        color: white;
+        font-weight: bold;
+    }
+    
+     /* The body of the page  */
+    
+    #showcase {
+          min-height: 100px;
+          text-align: center;
+          background-color: #232732;
+          color:white;
+          border-top: #BFB367 7px solid;
+        }
+          
+    #showcase input[type="text"] { width: 300px;  }
+    
+    footer {
+    padding: 20px;
+    margin-top: 50px;
+    color:white;
+    background-color: #232732;
+    text-align: center;
+    height: 30px;
+    border-top: #BFB367 7px solid;
+    }
+    
+    
+
+</style>
